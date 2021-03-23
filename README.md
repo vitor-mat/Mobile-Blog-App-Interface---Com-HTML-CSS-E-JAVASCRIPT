@@ -25,6 +25,7 @@ Layout mobile de uma página de blog (capa, conteudo e seção de comentários),
 
 ### Interface Mobile Task List App (Apenas mobile)
 ![Imgur](https://i.imgur.com/Eh4bz45.gif)
+
 Obs: Houve uma perda de qualidade da imagem na hora da gravação.
 
 ## Pré Requisitos Para Rodar a Aplicação
